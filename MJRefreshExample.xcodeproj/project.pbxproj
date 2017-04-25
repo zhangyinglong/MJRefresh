@@ -93,6 +93,7 @@
 		FC2EA8CE1EAEF1ED00D6809C /* UIScrollView+MJRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = 2DB2EA131BECBE6700D58F6A /* UIScrollView+MJRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FC2EA8CF1EAEF1ED00D6809C /* UIView+MJExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = 2DB2EA151BECBE6700D58F6A /* UIView+MJExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FC2EA8D01EAEF1ED00D6809C /* NSBundle+MJRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D4698841D0EE6A400CB8025 /* NSBundle+MJRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FC2EA9141EAEFDBC00D6809C /* MJRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = FC2EA8D11EAEF26400D6809C /* MJRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -492,6 +493,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC2EA9141EAEFDBC00D6809C /* MJRefresh.h in Headers */,
 				FC2EA8BD1EAEF1ED00D6809C /* MJRefreshAutoFooter.h in Headers */,
 				FC2EA8BE1EAEF1ED00D6809C /* MJRefreshBackFooter.h in Headers */,
 				FC2EA8BF1EAEF1ED00D6809C /* MJRefreshComponent.h in Headers */,
